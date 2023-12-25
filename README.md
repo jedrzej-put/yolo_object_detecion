@@ -4,7 +4,7 @@
 - Ultralytics YOLOv7
 - python 3.10.4
 - ros2
-- rviv
+- rviz
 - onxruntime
 
 ## Algorithms
