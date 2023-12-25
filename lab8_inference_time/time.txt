@@ -1,0 +1,11 @@
+zad1 YOLO
+48.4836ms
+
+zad2 onnxruntime
+CPU: 60.629ms
+CUDA: 15.535ms
+TENSORRT: 14.536ms
+
+zad3 TENSORRT CPP
+4.99ms
+
